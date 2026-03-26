@@ -12,7 +12,7 @@ Data Engineering: Expert in Web Scraping and automated data extraction for large
 
 Security Research: Focused on Vulnerability Discovery and AI Application Logic.
 
-💻 Stack
+💻 Stack:
 
 Languages: Python (Pandas, Scikit-Learn), SQL, Java, PHP.
 
