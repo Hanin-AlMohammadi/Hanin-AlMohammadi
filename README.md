@@ -1,6 +1,16 @@
-Hello, I'm Hanهn AlMohammadi,
+👋 Hi, I'm Hanin Almohammadi
+Security-focused Networking Student | AI & Data Analysis Enthusiast
 
-I am a passionate data analyst with extensive experience in uncovering valuable insights from data. I have a strong ability to learn quickly, enabling me to adapt to new challenges and technologies with ease. Currently, I am studying Network and Data Security, focusing on enhancing my skills and knowledge in this dynamic field.
+I build data-driven systems and explore their security. My repositories focus on the full data lifecycle—from raw acquisition to predictive intelligence.
 
-Throughout my journey, I have successfully completed numerous projects that highlight my analytical skills and dedication to delivering high-quality results. My enthusiasm for data analysis drives me to continuously improve and innovate, making meaningful contributions to every project I undertake.
-Here are some ideas to get you started:
+🛠️ Technical Focus
+Data Science & ML: Building predictive models and end-to-end pipelines using Python & SQL.
+
+Data Engineering: Expert in Web Scraping and automated data extraction for large-scale analysis.
+
+Security Research: Focused on Vulnerability Discovery and AI Application Logic.
+
+💻 Stack
+Languages: Python (Pandas, Scikit-Learn), SQL, Java, PHP.
+
+Tools: Jupyter Notebooks, Git, Kali Linux, Burp Suite.
