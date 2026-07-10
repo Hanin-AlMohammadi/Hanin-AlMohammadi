@@ -1,19 +1,14 @@
-Hi, I'm Hanin Almohammadi👋 
+Hi, I'm Hanin Almohammadi 👋
 
-Networking & Security Student | AI & Data Analysis Enthusiast
+Networking & Security Student | Security Researcher & AI Enthusiast
 
-I build data-driven systems and explore their security. My repositories focus on the full data lifecycle—from raw acquisition to predictive intelligence.
+I design secure network infrastructures, research web and AI vulnerabilities, and build machine learning models. My repositories focus on practical security compliance and data engineering.
 
 🛠️ Technical Focus:
-
-Data Science & ML: Building predictive models and end-to-end pipelines using Python & SQL.
-
-Data Engineering: Expert in Web Scraping and automated data extraction for large-scale analysis.
-
-Security Research: Focused on Vulnerability Discovery and AI Application Logic.
+- Cyber & Network Security: Designing secure topologies (PCI-DSS & HIPAA compliant) using Cisco Packet Tracer, and documenting real-world vulnerability disclosures (Stored XSS & LLM Open Redirect).
+- Data Science & ML: Building predictive models (Ensembles, CNNs, Regression) and data analysis pipelines.
+- Data Engineering: Automated web scraping frameworks and data cleaning using Python & SQL.
 
 💻 Stack:
-
-Languages: Python (Pandas, Scikit-Learn), SQL, Java, PHP.
-
-Tools: Jupyter Notebooks, Git, Kali Linux, Burp Suite.
+- Languages: Python (Pandas, Scikit-Learn), SQL, Java, PHP, HTML/CSS.
+- Tools: Cisco Packet Tracer, Burp Suite, Kali Linux, Wireshark, Jupyter Notebooks, Git.
